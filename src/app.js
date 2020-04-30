@@ -11,7 +11,7 @@ import 'express-async-errors'; //deve ser importado antes das routes
 import routes from './routes';
 import './database';
 
-
+//teste do git estou na linha de versão novo_gobarber
 
 /*
 O novo javascript usa a sintaxe acima para importar bibliotecas, mas temos que instalar: yarn add sucrase - D
